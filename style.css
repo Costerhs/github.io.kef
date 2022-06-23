@@ -1,0 +1,61 @@
+body {
+    background: url(img/photo_2022-04-02_15-58-31.jpg) no-repeat;
+    background-size: cover;
+}
+
+.boss {
+    padding-top: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.vygoda {
+    text-align: center;
+    color: rgb(18, 173, 18);
+    font-size: 40px;
+}
+
+.los {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 40px;
+    color: brown;
+}
+
+.cent {
+    color: rgb(18, 173, 18);
+    font-size: 40px;
+}
+
+.btn,
+.cent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.v {
+    text-align: center;
+}
+
+.v h1 {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.c {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+button {
+    width: 300px;
+    border-radius: 100px;
+    background-color: aqua;
+    font-size: 30px;
+    height: 90px;
+}
